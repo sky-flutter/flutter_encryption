@@ -1,7 +1,7 @@
 <AppUpdater>
   <update>
     <latestVersion>1.7</latestVersion>
-    <latestVersionCode>10</latestVersionCode>
+    <latestVersionCode>11</latestVersionCode>
     <url>https://github.com/sky-flutter/flutter_encryption/new/aes_encryption</url>
   </update>
 </AppUpdater>
